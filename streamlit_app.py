@@ -10,4 +10,4 @@ streamlit.text('🥗 Kale, Spinach & rocket smoothie')
 
 streamlit.text('🐔 Hard boiled free range egg')
 
-streamlit.text('🥑🍞 Avacado toast'
+streamlit.text('🥑🍞 Avacado toast')
